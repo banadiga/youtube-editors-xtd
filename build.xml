@@ -3,7 +3,7 @@
 
     <property name="build.dir" value="build" />
 
-    <target name="clean" description="Removes all temporary files.">
+    <target name="clean" description="Removes all build files.">
         <delete dir="${build.dir}" />
     </target>
 
