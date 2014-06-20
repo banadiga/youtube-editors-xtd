@@ -1,12 +1,11 @@
 # Youtube editors xtd
 
-Displays a button to make it possible to insert youtube video into an Article.
-Displays a popup allowing you to set code of video and insert prevew image of video.
+Adds a button, allowing to insert youtube video into an Article. On the buttin click a popup is shown, allowing you to set code of video. After confirmation the prevew image of the video is being displayed in the article editor.
 
 
 ## Dependency
 * youtube-editors-xtd version 1.0 is compatible with Joomla 3.x.
-* Use plugin [youtube-content](https://github.com/banadiga/youtube-content) to replase prevew image video to you video in corect size.
+* Use plugin [youtube-content](https://github.com/banadiga/youtube-content) to replace prevew image with the video player.
 
 
 ## LICENSE
@@ -22,7 +21,7 @@ See [LICENSE](https://raw.githubusercontent.com/banadiga/youtube-editors-xtd/mas
 * Install downloaded plugin.
 
 
-## How to build plugin and install
+## How to build the plugin and install
 
 * Clone a copy of the main youtube-editors-xtd git repo by running:	
 ```bash
@@ -32,4 +31,4 @@ git clone git://github.com/banadiga/youtube-editors-xtd.git
 ```bash
 ant
 ```
-* The built version of youtube-editors-xtd will be put in the `build/` subdirectory, along with the `youtube-editors-xtd.zip`.
+* The built version of youtube-editors-xtd will be placed in the `build/` subdirectory, along with the `youtube-editors-xtd.zip`.
