@@ -21,7 +21,7 @@ See [LICENSE](https://raw.githubusercontent.com/banadiga/youtube-editors-xtd/mas
 * Install downloaded plugin.
 
 
-## How to build the plugin and install
+## How to build and install the plugin
 
 * Clone a copy of the main youtube-editors-xtd git repo by running:	
 ```bash
@@ -32,3 +32,4 @@ git clone git://github.com/banadiga/youtube-editors-xtd.git
 ant
 ```
 * The built version of youtube-editors-xtd will be placed in the `build/` subdirectory, along with the `youtube-editors-xtd.zip`.
+* Install downloaded plugin.
